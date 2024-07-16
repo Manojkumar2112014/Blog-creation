@@ -16,5 +16,4 @@ This project is a simple blog web application built using Node.js, Express.js, a
 
 ## Project Structure
 - **index.js:** Entry point of the application where Express server is configured, routes are defined, and middleware is set up.
-- **views/:** Contains EJS templates for rendering HTML pages (e.g., `home.ejs`, `edit.ejs`).
-- **public/:** Includes static assets like CSS files (`styles.css`) used for styling.
+- **views/:** Contains EJS templates for rendering HTML pages (e.g., `home.ejs`, `edit.ejs`)
